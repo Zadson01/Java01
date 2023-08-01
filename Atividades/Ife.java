@@ -27,7 +27,7 @@ public class Ife {
         if (valor01 == 0) {
             System.out.println("Não pode informar 0");
 
-        } else if (valor02 < 0) {
+        } else if (valor02 == 0) {
             System.out.println("Não pode informar 0");
             
         }  else if (valor03 == 0) {
